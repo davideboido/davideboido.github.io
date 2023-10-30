@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Humanoid Technologies, Italian Institute of Technology and University of Genoa, 2010
+* M.S. in Physics, University of Genoa, 2005
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2020 - ongoing: CEA tenured researcher 
+  * CEA - NeuroSpin, Paris
+  * Multi-modal imaging at ultra-high field: MRI, fMRI, Electrophysiology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2020: Research Assistant
+  * CEA - NeuroSpin, Paris
+  * Multi-modal multiscale neuroimaging
+  * Supervisor: Luisa Ciobanu
+
+* 2013 - 2019: Post-doc
+  * Inserm and Université Paris Descartes, Paris
+  * In vivo preparations, Neurovascular Coupling, Two-Photon Microscopy, fUS, BOLD fMRI
+  * Supervisor: Serge Charpak
+
+* 2010 - 2013: Post-doc
+  * IRCCS C. Besta, Milan
+  * Guinea Pig Isolated Whole brain Preparation, Seizure models, Multi-site Electrophysiology, Hu- man SEEG data analysis
+  * Supervisor: Marco de Curtis
   
 Skills
 ======
@@ -48,12 +57,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Teaching
+# ======
+#   <ul>{% for post in site.teaching %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
