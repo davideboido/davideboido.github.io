@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Davide Boido and I am currently a Researcher at [NeuroSpin](https://joliot.cea.fr/drf/joliot/pages/entites_de_recherche/neurospin.aspx) in the NeuroPhysics Team. 
+I am Davide Boido and I am currently a researcher at [NeuroSpin](https://joliot.cea.fr/drf/joliot/pages/entites_de_recherche/neurospin.aspx) in the NeuroPhysics team. 
 
 I am physicist with a Ph.D. in Robotics and Neuroscience. My passion is to harness approaches derived from Physics to study brain dynamics and this pushed me to use advanced technologies for functional imaging. With my team at NuroSpin, we use ultra-high field MRI scanners on rodents (7T, 11.7T and 17.2 T) and humans (3T and 7T). I like to couple fMRI data with optical, acoustical and electrophysiological recordings. 
 
 Ongoing Research
 ======
  - Sensory evoked fast BOLD fMRI dynamics in rodents
- - Chemical Exchange Saturation Transfer MRI in rodents and humans to map glutamate and other biologically relevant [molecules](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mrm.29282) in health and diease
+ - Chemical Exchange Saturation Transfer MRI in rodents and humans to map glutamate and other [biologically relevant molecules](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mrm.29282) in health and diease
  - Sensory evoked fast BOLD fMRI in Small Vessels Disease patients (within the RHU [TRT_cSVD project](https://treat-svd.fr/))
   
 
 My background
 ======
-I got a Master in Physics at the University of Genoa, Italy, with a final report on a study I made at the Biophysics Institute of [CNR](https://www.ibf.cnr.it/) about the electrophysiological properties of potassium voltage-senstivie ion channels. In 2007 I was awarded a Ph.D fellowship on Humanoid Technologies by the Italian Institute of Technology. During my Ph.D. I used multi-electrodes arrays (MEAs) to study [the proapagation of epileptic ictal events in mouse brain slices](https://www.sciencedirect.com/science/article/pii/S0306452210011747?via%3Dihub).   
+I got a Master in Physics at the University of Genoa, Italy, with a final report on a study I made at the [Biophysics Institute of CNR](https://www.ibf.cnr.it/) about the electrophysiological properties of potassium voltage-senstivie ion channels. In 2007 I was awarded a Ph.D fellowship on Humanoid Technologies by the Italian Institute of Technology. During my Ph.D. I used multi-electrodes arrays (MEAs) to study [the proapagation of epileptic ictal events in mouse brain slices](https://www.sciencedirect.com/science/article/pii/S0306452210011747?via%3Dihub).   
 
 In 2010 I moved to Istituto C. Besta in Milan in Marco de Curtis' lab to continue the study of seizure-like events [propagation](https://academic.oup.com/cercor/article/24/1/163/276592) and [termination]( https://doi.org/10.1002/ana.24193) in the isolated guinea pig brain. During this post-doc I could also analyze stereo-EEG data fomr epileptic patients, particularly electrically evoked potentials, which reveal functional brain connectivity, to find [epilptic foci](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6869715/). It was about that time that I realized the importance of fMRI to investigate brain dynamics in humans and animal models.
 
