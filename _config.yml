@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Davide Boido"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D, CEA Researcher"
+  location         : "NeuroSpin, Paris Saclay"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=davide+boido"
+  googlescholar    : "https://scholar.google.com/citations?user=uTYco8UAAAAJ&hl=en"
+  email            : "davide.boido@cea.fr"
+  researchgate     : "https://www.researchgate.net/profile/Davide-Boido"
   uri              :
   bitbucket        :
   codepen          :
