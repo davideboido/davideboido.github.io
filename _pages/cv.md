@@ -53,4 +53,7 @@ Main Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+All my pubblications
+=====
+[Davide Boido @Google Scholar](https://scholar.google.com/citations?user=uTYco8UAAAAJ&hl=en)
 
