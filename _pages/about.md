@@ -10,7 +10,7 @@ redirect_from:
 
 I am Davide Boido and I am currently a researcher at [NeuroSpin](https://joliot.cea.fr/drf/joliot/pages/entites_de_recherche/neurospin.aspx) in the NeuroPhysics team. 
 
-I am physicist with a Ph.D. in Robotics and Neuroscience. My passion is to harness approaches derived from Physics to study brain dynamics and this pushed me to use advanced technologies for functional imaging. With my team at NuroSpin, we use ultra-high field MRI scanners on rodents (7T, 11.7T and 17.2 T) and humans (3T and 7T). I enjoy coupling fMRI data with optical, acoustical and electrophysiological recordings. 
+I am physicist with a Ph.D. in Robotics and Neuroscience. My passion is to harness approaches derived from Physics to study brain dynamics and this pushed me to use advanced technologies for functional imaging. At NeuroSpin, with my collaborators, we use ultra-high field MRI scanners on rodents and humans. I enjoy coupling fMRI data with optical, acoustical and electrophysiological recordings. 
 
 Ongoing Research
 ======
