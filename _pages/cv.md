@@ -33,7 +33,7 @@ Work experience
 
 * 2010 - 2013: Post-doc
   * IRCCS C. Besta, Milan
-  * Guinea Pig Isolated Whole brain Preparation, Seizure models, Multi-site Electrophysiology, Hu- man SEEG data analysis
+  * Guinea Pig Isolated Whole brain Preparation, Seizure models, Multi-site Electrophysiology, Human SEEG data analysis
   * Supervisor: Marco de Curtis
   
   
