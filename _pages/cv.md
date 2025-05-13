@@ -36,6 +36,14 @@ Work experience
   * Guinea Pig Isolated Whole brain Preparation, Seizure models, Multi-site Electrophysiology, Hu- man SEEG data analysis
   * Supervisor: Marco de Curtis
   
+  
+Funded Projects
+===============
+* CEST-Focus (PI, 200 K€): CEST MRI at ultra-high magnetic field to localize the epileptic focus
+* fMRI Bio-SVD (Co-PI, 280 K€): Looking for fMRI-based biomarkers of Small Vessels Diseases 
+
+
+
 Skills
 ======
 * MRI @ UHF
